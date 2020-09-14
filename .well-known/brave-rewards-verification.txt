@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mateusfg7.github.io
+Token: 15001e9fad42e16521d409bb44f7ec2f1b6aa72a9a1c8538b2e800faa0ac012b
